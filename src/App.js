@@ -1,5 +1,6 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+// DEĞİŞİKLİK BURADA:
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import HomePage from './pages/HomePage';
@@ -8,7 +9,8 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    // "Router" takma adı sayesinde burayı değiştirmek gerekmiyor
+    <Router> 
       <div className="App">
         <Header />
         <main>
