@@ -2,7 +2,7 @@
   "name": "vitaloop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<kullanici-adiniz>.github.io/<depo-adiniz>",
+  "homepage": "https://Aziz1616.github.io/vitaloop-site",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -40,6 +40,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.3.0"
   }
 }
