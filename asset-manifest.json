@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vitaloop-site/static/css/main.364e6583.css",
+    "main.js": "/vitaloop-site/static/js/main.c367758e.js",
+    "index.html": "/vitaloop-site/index.html",
+    "main.364e6583.css.map": "/vitaloop-site/static/css/main.364e6583.css.map",
+    "main.c367758e.js.map": "/vitaloop-site/static/js/main.c367758e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.364e6583.css",
+    "static/js/main.c367758e.js"
+  ]
+}
